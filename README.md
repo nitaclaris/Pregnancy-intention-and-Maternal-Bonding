@@ -1,7 +1,4 @@
-# Maternal-Attitudes-and-Infant-Bonding-in-AGYW
-
-A Stata Analysis for The effect of pregnancy intention on Maternal Attitude, Adjustment and Bonding Post-Pregnancy among Adolescent Girls and Young Women in Southwestern Kenya
-
+# Maternal Attitudes and Infant Bonding in AGYW
 
 ## Project Overview
 
@@ -16,7 +13,7 @@ The analysis was conducted using data from an ongoing  clinical trial, and evalu
 - Determine whether unintended pregnancy is associated with impaired mother–infant bonding.
 - Identify demographic and psychosocial predictors of adverse maternal outcomes.
 
-  ## Methods
+## Methods
 
 - Comparative cross-sectional study
 - Nested within an ongoing Clinical trial
@@ -46,7 +43,7 @@ The analysis was conducted using data from an ongoing  clinical trial, and evalu
 
 ## Data
 
-The dataset used in this project is not publicly available because it originates from an clinical trial. In accordance with the study's data sharing policies, participant-level data cannot be publicly released.
+The dataset used in this project is not publicly available because it originates from an ongoing clinical trial. In accordance with the study's data sharing policies, participant-level data cannot be publicly released.
 
 This repository contains only the Stata analysis scripts and project documentation.  
 
