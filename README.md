@@ -19,6 +19,7 @@ The analysis was conducted using data from an ongoing  clinical trial, and evalu
 - Nested within an ongoing Clinical trial
 - Sample size: Parenting AGYW
 - Multiple linear regression
+- Principal Component Analysis
 - Logistic regression
 
 ## Skills Demonstrated
@@ -28,6 +29,7 @@ The analysis was conducted using data from an ongoing  clinical trial, and evalu
 - Psychometric questionnaire scoring
 - Maternal and child health research
 - Multiple linear regression
+- Principal Component Analysis
 - Logistic regression
 - Epidemiological data analysis
 - Scientific reporting
