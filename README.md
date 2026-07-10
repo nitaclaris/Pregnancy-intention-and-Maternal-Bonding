@@ -17,10 +17,15 @@ The analysis was conducted using data from an ongoing  clinical trial, and evalu
 
 - Comparative cross-sectional study
 - Nested within an ongoing Clinical trial
-- Sample size: Parenting AGYW
+- Sample size: Parenting and Non-parenting AGYW
 - Multiple linear regression
-- Principal Component Analysis
-- Logistic regression
+- Manual multivariable model building
+- Assessment of interaction effects between selected covariates
+- Principal Component Analysis (PCA) for socioeconomic status index construction
+
+## Analysis
+
+Built multivariable regression models using a manual model-building approach, evaluating biologically plausible interaction terms and comparing alternative model specifications to identify the final adjusted model.
 
 ## Skills Demonstrated
 
